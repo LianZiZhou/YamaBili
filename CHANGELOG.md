@@ -1,5 +1,7 @@
 # Changelog
 
+English | [中文](CHANGELOG.zh.md)
+
 ## 0.1.0
 
 - First release, extracted from the LynnHome world.
