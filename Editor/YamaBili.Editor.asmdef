@@ -1,0 +1,25 @@
+{
+    "name": "YamaBili.Editor",
+    "rootNamespace": "YamaBili.EditorTools",
+    "references": [
+        "YamaBili.Runtime",
+        "Yamadev.YamaStream.Runtime",
+        "VRC.Udon",
+        "VRC.Udon.Editor",
+        "UdonSharp.Runtime",
+        "UdonSharp.Editor",
+        "VRC.SDK3.Editor",
+        "VRC.SDKBase.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
